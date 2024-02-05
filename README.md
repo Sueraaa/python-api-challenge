@@ -2,7 +2,7 @@
 ## Part 1: WeatherPy
 
 1. Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
-2. Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
+2. Requirement 2: Compute Linear Regression for Each Relationship
 
 ## Part 2: VacationPy
 1. Use the Geoapify API and the geoViews Python library and employ your Python skills to create map visualisations.
